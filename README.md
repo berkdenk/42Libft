@@ -10,5 +10,5 @@ The main goals of the `libft` project are:
 - To understand memory management, string manipulation, and algorithm basics.
 - To write clean and structured code while following the 42 coding norms.
 
-## 📁 File Structure
-The project includes the following files and directories:
+- git clone :
+  git clone https://github.com/berkdenk/42Libft.git
